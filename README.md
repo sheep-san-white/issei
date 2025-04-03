@@ -1,2 +1,3 @@
 # issei
-Image Spliter for Slack EmojI(ISSEI)
+
+Image Spliter for Slack EmojI(issei)
